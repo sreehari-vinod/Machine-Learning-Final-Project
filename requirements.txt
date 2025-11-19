@@ -1,7 +1,10 @@
-setuptools
-wheel
+setuptools>=65.5.1
+wheel>=0.38.4
 streamlit==1.28.0
 pandas==2.0.3
 numpy>=1.24.4
 scikit-learn==1.2.2
 rich>=10.14.0
+markdown-it-py>=2.2.0
+mdurl~=0.1
+pygments>=2.13.0,<3.0.0
