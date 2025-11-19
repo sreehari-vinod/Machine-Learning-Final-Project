@@ -1,0 +1,5 @@
+MIT License
+
+Copyright (c) 2025 Sreehari Vinod
+
+Permission is hereby granted, free of charge, to use this software.
